@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+wvs.csv/
+wvs_src.csv/
